@@ -1,0 +1,9 @@
+#register_label {
+  font-size: 10px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+}
+#register_label:hover {
+  cursor: pointer;
+}
